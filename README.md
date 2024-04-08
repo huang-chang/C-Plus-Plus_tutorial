@@ -17,3 +17,10 @@ c++开发环境配置，基础语法，高级数据结构，高级库的使用<b
 - [pair](https://blog.csdn.net/weixin_51133173/article/details/137526145)
 - [tuple](https://blog.csdn.net/weixin_51133173/article/details/137526197)
 - [tie获取pair/tuple值](https://blog.csdn.net/weixin_51133173/article/details/137526334)
+- [vector嵌套vector(2级列表)](https://blog.csdn.net/weixin_51133173/article/details/137526646)
+- [vector嵌套pair/tuple](https://blog.csdn.net/weixin_51133173/article/details/137528921)
+- [map嵌套vector](https://blog.csdn.net/weixin_51133173/article/details/137528984)
+- [map嵌套pair/tuple](https://blog.csdn.net/weixin_51133173/article/details/137529014)
+- [map嵌套vector(vector嵌套pair/tuple)](https://blog.csdn.net/weixin_51133173/article/details/137529060)
+
+
