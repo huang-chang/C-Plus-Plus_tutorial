@@ -23,4 +23,7 @@ c++开发环境配置，基础语法，高级数据结构，高级库的使用<b
 - [map嵌套pair/tuple](https://blog.csdn.net/weixin_51133173/article/details/137529014)
 - [map嵌套vector(vector嵌套pair/tuple)](https://blog.csdn.net/weixin_51133173/article/details/137529060)
 
+### 高级数据结构练习题
+题目：把一个字典形式的字符串解码成字典<br>
+课程链接：[长字符串解码成字典](https://blog.csdn.net/weixin_51133173/article/details/137529209)
 
