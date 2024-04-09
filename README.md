@@ -27,3 +27,23 @@ c++开发环境配置，基础语法，高级数据结构，高级库的使用<b
 题目：把一个字典形式的字符串解码成字典<br>
 课程链接：[长字符串解码成字典](https://blog.csdn.net/weixin_51133173/article/details/137529209)
 
+### 模块化/library
+把自己开发的一些功能代码独立放置，导入使用<br>
+- [编译多个cpp文件](https://blog.csdn.net/weixin_51133173/article/details/137544733)
+- [实现类似python的print函数](https://blog.csdn.net/weixin_51133173/article/details/137554140)
+- [实现类似python的split字符串分割函数](https://blog.csdn.net/weixin_51133173/article/details/137555685)
+- [实现函数: 字符串转换成对应的数值类型](https://blog.csdn.net/weixin_51133173/article/details/137556374)
+
+### 调用系统常用命令
+日常使用在终端窗口中的操作系统命令，在c++中调用
+- [system调用方法](https://blog.csdn.net/weixin_51133173/article/details/137557166)
+- [popen调用方法](https://blog.csdn.net/weixin_51133173/article/details/137557436)
+
+### md5值
+在文件传输或文件下载后，判断下载前的文件与下载后的文件是否内容完全一样;<br>
+判断2个文件内容是否相同<br>
+[计算文件的md5值](https://blog.csdn.net/weixin_51133173/article/details/137558487)
+
+### 下载url网络文件
+[下载url文件](https://blog.csdn.net/weixin_51133173/article/details/137559356)
+
