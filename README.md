@@ -34,7 +34,7 @@ c++开发环境配置，基础语法，高级数据结构，高级库的使用<b
 - [实现类似python的split字符串分割函数](https://blog.csdn.net/weixin_51133173/article/details/137555685)
 - [实现函数: 字符串转换成对应的数值类型](https://blog.csdn.net/weixin_51133173/article/details/137556374)
 
-### 调用系统常用命令
+### 调用系统命令
 日常使用在终端窗口中的操作系统命令，在c++中调用
 - [system调用方法](https://blog.csdn.net/weixin_51133173/article/details/137557166)
 - [popen调用方法](https://blog.csdn.net/weixin_51133173/article/details/137557436)
