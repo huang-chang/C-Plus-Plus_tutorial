@@ -47,3 +47,28 @@ c++开发环境配置，基础语法，高级数据结构，高级库的使用<b
 ### 下载url网络文件
 [下载url文件](https://blog.csdn.net/weixin_51133173/article/details/137559356)
 
+### 使用json库
+[使用json](https://blog.csdn.net/weixin_51133173/article/details/137573638)
+
+### 使用http库
+- [介绍](https://blog.csdn.net/weixin_51133173/article/details/137593811)
+- hello world例子
+    - [server端](https://blog.csdn.net/weixin_51133173/article/details/137594003)
+    - [client端](https://blog.csdn.net/weixin_51133173/article/details/137595229)
+- 使用json格式数据
+    - [server端返回json格式数据](https://blog.csdn.net/weixin_51133173/article/details/137595681)
+    - [client端接收json数据](https://blog.csdn.net/weixin_51133173/article/details/137595996)
+- get请求
+    - [server端接收get请求参数](https://blog.csdn.net/weixin_51133173/article/details/137597046)
+    - [client端发送get请求参数](https://blog.csdn.net/weixin_51133173/article/details/137598280)
+- post请求
+    - [server端接收post请求参数](https://blog.csdn.net/weixin_51133173/article/details/137599343)
+    - [client端发送post请求参数](https://blog.csdn.net/weixin_51133173/article/details/137600335)
+
+### 读写redis数据库
+- [安装client端](https://blog.csdn.net/weixin_51133173/article/details/137601524)
+- [hello world例子](https://blog.csdn.net/weixin_51133173/article/details/137601909)
+- [简单结构的key-value](https://blog.csdn.net/weixin_51133173/article/details/137602214)
+- [复杂结构的key-value](https://blog.csdn.net/weixin_51133173/article/details/137602698)
+
+
