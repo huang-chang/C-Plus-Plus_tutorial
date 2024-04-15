@@ -71,4 +71,19 @@ c++开发环境配置，基础语法，高级数据结构，高级库的使用<b
 - [简单结构的key-value](https://blog.csdn.net/weixin_51133173/article/details/137602214)
 - [复杂结构的key-value](https://blog.csdn.net/weixin_51133173/article/details/137602698)
 
+### 使用html库
+- [安装htmlcxx](https://blog.csdn.net/weixin_51133173/article/details/137788919)
+- [hello world](https://blog.csdn.net/weixin_51133173/article/details/137795483)
+- [获取网页内容](https://blog.csdn.net/weixin_51133173/article/details/137795880)
+- [解析网页内容](https://blog.csdn.net/weixin_51133173/article/details/137796173)
+- [网页图片名称排序](https://blog.csdn.net/weixin_51133173/article/details/137796548)
+
+### 读写elasticsearch数据库
+- [查库中的表名](https://blog.csdn.net/weixin_51133173/article/details/137798000)
+- [查表中的数据量](https://blog.csdn.net/weixin_51133173/article/details/137798245)
+- [建向量类型的表](https://blog.csdn.net/weixin_51133173/article/details/137798391)
+- [表中插入向量](https://blog.csdn.net/weixin_51133173/article/details/137799330)
+- [查询表中的所有向量](https://blog.csdn.net/weixin_51133173/article/details/137799563)
+- [计算top-1相似度](https://blog.csdn.net/weixin_51133173/article/details/137799767)
+
 
